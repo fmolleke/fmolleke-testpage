@@ -5,7 +5,7 @@ sections:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-a
-    title: 'Love your work. Work loves you.'
+    title: 'yanosch hat keine latina speigelfags'
     subtitle: 'One platform, one community.'
     actions:
       - type: Button
