@@ -5,7 +5,7 @@ sections:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-a
-    title: 'yanosch hat keine latina speigelfags'
+    title: 'yanosch hat kleine latina speigelfags'
     subtitle: 'One platform, one community.'
     actions:
       - type: Button
