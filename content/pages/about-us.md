@@ -1,11 +1,11 @@
 ---
-title: Careers
+title: About us
 layout: PageLayout
 sections:
   - elementId: ''
     colors: colors-h
-    title: We’re growing fast
-    subtitle: You should join us.
+    title: Über uns
+    subtitle: Hier kann was übers Unternehmen stehen.
     media:
       type: ImageBlock
       url: /images/hero-4.jpg

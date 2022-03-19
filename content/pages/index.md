@@ -5,8 +5,8 @@ sections:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-a
-    title: 'yanosch hat kleine latina speigelfags'
-    subtitle: 'One platform, one community.'
+    title: 'Beispiel Title'
+    subtitle: 'Beispiel Subtitle'
     actions:
       - type: Button
         label: Get Started

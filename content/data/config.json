@@ -5,7 +5,7 @@
         "headerVariant": "variant-c",
         "primaryColors": "colors-a",
         "secondaryColors": "colors-f",
-        "title": "Starter",
+        "title": "Name",
         "isTitleVisible": true,
         "primaryLinks": [
             {
@@ -16,30 +16,21 @@
             },
             {
                 "type": "Link",
-                "label": "Careers",
-                "url": "/careers",
+                "label": "Über uns",
+                "url": "/about-us",
                 "altText": ""
             },
             {
                 "type": "Link",
-                "label": "FAQ",
-                "url": "/faq",
+                "label": "Jobs",
+                "url": "/jobs",
                 "altText": ""
             },
             {
                 "type": "Link",
-                "label": "Blog",
-                "altText": "Blog",
-                "url": "/blog"
-            }
-        ],
-        "secondaryLinks": [
-            {
-                "type": "Button",
-                "label": "Sign up",
-                "url": "/",
-                "altText": "Sign up",
-                "style": "primary"
+                "label": "Aktuelles",
+                "altText": "",
+                "url": "/news"
             }
         ],
         "styles": {
@@ -75,17 +66,17 @@
             "type": "ImageBlock",
             "url": "/images/logo.svg"
         },
-        "title": "Starter",
+        "title": "Name",
         "contacts": {
-            "title": "Contact details",
-            "phoneNumber": "850-123-5021",
-            "phoneAltText": "Our phone",
-            "email": "info@lorem.mail",
-            "emailAltText": "Our email",
-            "address": "312 Lovely Street, NY",
-            "addressAltText": "Our address"
+            "title": "Kontaktinformationen",
+            "phoneNumber": "05931/123456",
+            "phoneAltText": "Unsere Telefonnummer",
+            "email": "info@test.de",
+            "emailAltText": "Unsere E-Mail",
+            "address": "Am Stadtforst 47, Meppen",
+            "addressAltText": "Unsere Addresse"
         },
-        "copyrightText": "Powered by [Stackbit](https://www.stackbit.com/)",
+        "copyrightText": "Powered by Florian Molleker",
         "primaryLinks": [
             {
                 "type": "Link",
@@ -95,31 +86,24 @@
             },
             {
                 "type": "Link",
-                "label": "Careers",
-                "url": "/careers",
+                "label": "Über uns",
+                "url": "/about-us",
                 "altText": ""
             },
             {
                 "type": "Link",
-                "label": "FAQ",
-                "url": "/faq",
+                "label": "Jobs",
+                "url": "/jobs",
                 "altText": ""
             },
             {
                 "type": "Link",
-                "label": "Blog",
-                "url": "/blog",
+                "label": "Aktuelles",
+                "url": "/news",
                 "altText": ""
             }
         ],
         "socialLinks": [
-            {
-                "type": "Social",
-                "altText": "Twitter",
-                "label": "Twitter",
-                "url": "/",
-                "icon": "twitter"
-            },
             {
                 "type": "Social",
                 "altText": "Instagram",
@@ -138,13 +122,13 @@
         "legalLinks": [
             {
                 "type": "Link",
-                "label": "Privacy Policy",
-                "url": "/"
+                "label": "Impressum",
+                "url": "/imprint"
             },
             {
                 "type": "Link",
-                "label": "Terms & Conditions",
-                "url": "/"
+                "label": "Datenschutz",
+                "url": "/data-security"
             }
         ],
         "styles": {
